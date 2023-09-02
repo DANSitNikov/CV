@@ -2,6 +2,12 @@
 ## Frontend Developer  
 
 ### Contacts
+ 
+
+|  |  |
+| - | ----------- |
+| ![phone](./assets/phone.svg) | +374 55 792740 |
+
   - <img src="./assets/phone.svg" /> +374 55 792740
   <div style="display:flex;align-items:center;">
     <img src="./assets/phone.svg" />
