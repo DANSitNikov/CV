@@ -26,7 +26,7 @@ DevelopsToday provides web development services, offering tailored solutions tha
 
 ### Skills
 
-| Skills | Skills | Skills | Skills | Skills |
+| * | * | Skills | Skills | Skills |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | HTML | React | Context API | Storybook | Git |
 | CSS | Next.js | Tailwind | Cypress | Jira |
